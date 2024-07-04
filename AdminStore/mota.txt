@@ -1,0 +1,56 @@
+
+
+quản lý đơn hàng
+    Xem đơn hàng: tất cả, chờ xác nhận, đang chuẩn bị, đang giao, hoàn thành, đã hủy 
+    xem yêu cầu hủy hàng: duyệt, hủy yêu cầu
+    dashboard:
+        Thể loại: số thể loại hiện có, số thể loại có sách
+        Sản phẩm: tổng số sp, số sp > 0
+        Đơn hàng: tổng số đơn hàng, đơn hàng đã hoàn thành
+        Khách hàng: tổng khách hàng, khách hàng đã mua
+        tổng doanh thu: tổng totalbook 
+        biểu đồ kết quả kinh doanh:
+            có thể xem theo ngày, tháng, quý, năm
+            xem đc doanh thu, chi phí, lợi nhuận
+        biểu đồ khách hàng:
+            khách hàng cũ đặt trên 1 đơn hàng, khách hàng mới đặt 1 đơn hàng
+        bán chạy:
+            thể loại: tên và số sách đã bán của thể loại đó
+            sản phẩm: tên và số sách đã bán
+            khách hàng: tên và tổng doanh thu
+    quản lý thể loại: danh mục, thể loại - thêm, sửa, xóa, danh mục xem được các thể loại hiện có
+    quản lý sản phẩm: 
+        xem tất cả sản phẩm, phân trang, xem chi tiết
+        thêm, sửa, xóa 
+    quản lý khách hàng: xem tất cả, xem chi tiết (thông tin khách hàng + đơn hàng mua)
+    quản lý đơn hàng:
+        lọc ra trạng thái
+        chuyển đc 2 trạng thái: chờ xác nhận và đang chuẩn bị
+        mỗi lần chuyển sẽ gửi thông báo đến cho khách hàng
+        xem chi tiết đơn hàng
+    thống kê:
+        doanh thu: 
+            xem theo ngày, tháng, quý năm
+            xem chi tiết: thông tin, các đơn hàng của thời gian đó, xem thông tin đơn hàng
+            sắp xếp theo ngày, tháng, quý, năm  
+        Sản phẩm:
+            xem theo khoảng thời gian(thời gian đặt )
+            xem chi tiết: thông tin, thông tin ngày đặt
+            thống kê theo danh mục
+            sắp xếp cao thấp (cho tất cả sản phẩm)
+        khách hàng:
+            xem khoảng thời gian (ngày giao)
+            xem chi tiết: khách hàng đó 
+            sắp xếp cao thấp (cho tất cả)
+    tài khoản:
+        xem thông tin, đổi mật khẩu, thay đổi thông tin
+        đăng xuất
+    tìm kiếm: sản phẩm, khách hàng 
+
+
+
+
+
+        
+
+
